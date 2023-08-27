@@ -1,0 +1,662 @@
+Introduction to Computer Engineering
+Digital Logic and Computer Design
+Microprocessors and Microcontrollers
+Computer Architecture
+Computer Networks
+Operating Systems
+Data Structures and Algorithms
+Software Engineering
+Embedded Systems
+Introduction to VLSI Design
+Computer Organization and Design
+Introduction to Artificial Intelligence
+Object-Oriented Programming
+Data Communications and Networking
+Compiler Design
+Real-time Systems
+FPGA Design and Implementation
+Network Security
+Advanced Computer Architecture
+High-Performance Computing
+Robotics and Automation
+Computer Vision
+Machine Learning
+Internet of Things (IoT)
+Cloud Computing
+Distributed Systems
+Wireless Communication Systems
+Digital Signal Processing
+Computer Graphics
+Cybersecurity
+Human-Computer Interaction
+Advanced Algorithms
+Parallel Processing
+Advanced VLSI Design
+Computer Aided Design (CAD) for VLSI
+Computer Aided Manufacturing (CAM)
+Advanced Networking
+Wireless Sensor Networks
+Network Programming
+Big Data Analytics
+Data Mining and Warehousing
+Internet Protocols and Routing
+Real-Time Operating Systems
+Advanced Artificial Intelligence
+Mobile Computing
+Natural Language Processing
+Distributed Databases
+Software Testing and Verification
+Real-Time Embedded Systems
+Advanced Robotics
+Computer Ethics and Professional Issues
+Cyber-Physical Systems
+Computer Game Development
+Quantum Computing
+Computer Vision and Pattern Recognition
+Virtual Reality and Augmented Reality
+Computational Intelligence
+Digital Image Processing
+Network Programming and Security
+Embedded System Design
+Advanced Digital Design Techniques
+Cyber-Physical Security
+Advanced Machine Learning
+Internet of Things Security
+Advanced Computer Graphics
+Computer Animation
+Computer Music
+Advanced Human-Computer Interaction
+Deep Learning
+Autonomous Systems
+Cryptography and Network Security
+Advanced Wireless Communication Systems
+Internet of Things Applications
+Bioinformatics
+Quantum Information Processing
+Advanced Cybersecurity
+Advanced Distributed Systems
+Computational Photography
+Advanced Cloud Computing
+Artificial Neural Networks
+Reinforcement Learning
+Information Retrieval
+Social Network Analysis
+Advanced Internet Protocols
+Virtualization Technologies
+Cyber Threat Intelligence
+Advanced Software Engineering
+Internet of Things Analytics
+Real-Time Computer Vision
+Evolutionary Computation
+Advanced Human-Robot Interaction
+Advanced Natural Language Processing
+Network Performance Analysis
+Computer-Aided Diagnosis
+Cyber-Physical Systems Security
+Advanced Quantum Computing
+Advanced Computational Intelligence
+Advanced Digital Image Processing
+Networked Embedded Systems
+Computer Vision for Robotics
+Introduction to Software Engineering
+Software Development Fundamentals
+Object-Oriented Programming with Java
+Algorithms and Data Structures
+Web Development with HTML, CSS, and JavaScript
+Introduction to Python Programming
+Software Testing and Quality Assurance
+Agile Software Development
+Database Management Systems
+Software Design and Architecture
+Introduction to C++ Programming
+Mobile App Development
+Software Project Management
+User Interface Design
+Introduction to Software Security
+Software Requirements Engineering
+Cloud Computing and DevOps
+Software Maintenance and Evolution
+Advanced Java Programming
+Web Application Development with Ruby on Rails
+Introduction to Software Testing
+Software Verification and Validation
+Software Metrics and Measurement
+Introduction to Software Design Patterns
+Software Configuration Management
+Software Engineering Ethics and Professionalism
+Human-Computer Interaction
+Introduction to Software Modeling
+Software Documentation and Technical Writing
+Software Process Improvement
+Software Cost Estimation and Budgeting
+Introduction to Agile Methodologies
+Distributed Systems and Middleware
+Software Engineering for Embedded Systems
+Software Reliability and Dependability
+Software Requirements Validation
+Introduction to Software Maintenance
+Real-Time Systems Development
+Formal Methods in Software Engineering
+Software Engineering for Mobile Devices
+Introduction to Software Metrics
+Software Testing Techniques and Tools
+Software Engineering Project
+Software Architecture and Design Patterns
+Software Engineering for Cloud Computing
+Introduction to Software Configuration Management
+Continuous Integration and Deployment
+Software Product Management
+Software Risk Management
+Introduction to Software Process Improvement
+Software Maintenance and Legacy Systems
+Software Project Planning and Estimation
+Secure Software Development
+Software Usability and User Experience
+Introduction to Agile Software Development
+Software Quality Assurance Techniques
+Software Metrics Analysis and Interpretation
+Software Design and Implementation
+Software Engineering Case Studies
+Introduction to Formal Methods
+Model-Driven Software Development
+Software Requirements Elicitation
+Software Architecture Evaluation
+Introduction to Software Reliability
+Software Testing Strategies and Automation
+Software Project Management Tools
+Software Deployment and Release Management
+Introduction to User-Centered Design
+Software Configuration Management Tools
+Software Process Assessment and Improvement
+Software Maintenance and Refactoring
+Introduction to Continuous Integration
+Software Product Lifecycle Management
+Software Risk Assessment and Mitigation
+Software Testing and Validation Techniques
+Introduction to Secure Software Development
+Software Usability Testing and Evaluation
+Software Engineering Teamwork
+Introduction to Model-Driven Development
+Software Requirements Analysis and Specification
+Software Architecture Design and Evaluation
+Introduction to Software Usability
+Software Metrics and Process Improvement
+Software Design Patterns and Architectures
+Introduction to Software Risk Management
+Software Testing and Debugging
+Software Project Tracking and Control
+Introduction to Human-Computer Interaction
+Software Configuration Management Practices
+Software Process Assessment and Measurement
+Software Maintenance and Evolution Techniques
+Introduction to Software Deployment
+Software Product Line Engineering
+Software Requirements Modeling
+Software Architecture and Design Review
+Introduction to Software Reliability Engineering
+Software Testing Tools and Frameworks
+Software Project Management Methodologies
+Introduction to User Experience Design
+Software Configuration Management Strategies
+Software Process Management and Improvement
+Software Maintenance and Modernization
+Introduction to Continuous Deployment
+Software Product Management and Marketing
+Software Risk Analysis and Mitigation
+Software Testing for Mobile Applications
+Introduction to Secure Software Design
+Software Usability Evaluation Techniques
+Software Engineering Communication Skills
+Introduction to Model-Driven Architecture
+Software Requirements Validation Techniques
+Software Architecture Evaluation Methods
+Introduction to Software Usability Testing
+Software Metrics and Process Management
+Software Design Patterns and Practices
+Introduction to Software Risk Analysis
+Software Testing and Inspection Techniques
+Software Project Management Best Practices
+Introduction to Human-Centered Design
+Software Configuration Management Tools and Techniques
+Software Process Assessment and Evaluation
+Software Maintenance and Code Refactoring
+Introduction to Software Deployment Automation
+Software Product Line Architecture
+Software Requirements Engineering Techniques
+Software Architecture Review and Assessment
+Introduction to Software Reliability Assessment
+Software Testing for Web Applications
+Software Project Management Software
+Introduction to User-Centered Design Principles
+Software Configuration Management Implementation
+Software Process Improvement Strategies
+Software Maintenance and Software Evolution
+Introduction to Continuous Integration and Deployment
+Software Product Line Engineering Practices
+Software Requirements Elicitation Techniques
+Software Architecture Design Patterns
+Introduction to Software Risk Assessment
+Software Testing and Validation Tools
+Software Project Management Techniques
+Introduction to User Experience Research
+Software Configuration Management Systems
+Software Process Assessment and Analysis
+Software Maintenance and Software Modernization
+Introduction to Continuous Deployment Strategies
+Software Product Line Engineering Methods
+Software Requirements Analysis Techniques
+Software Architecture Evaluation Techniques
+Introduction to Software Reliability
+Software Testing for Mobile Devices
+Software Project Management Practices
+Introduction to Human-Centered Interaction Design
+Software Configuration Management Approaches
+Software Process Improvement Models
+Software Maintenance and Legacy Code
+Introduction to Continuous Deployment Practices
+Software Product Line Engineering Tools
+Software Requirements Elicitation Methods
+Software Architecture Design Evaluation
+Introduction to Software Risk Analysis Techniques
+Software Testing and Validation Techniques
+Software Project Management Frameworks
+Introduction to User Experience Design Principles
+Software Configuration Management Techniques
+Software Process Assessment and Evaluation Methods
+Software Maintenance and Code Modernization
+Introduction to Continuous Integration Practices
+Software Product Line Engineering Frameworks
+Software Requirements Analysis Methods
+Software Architecture Design Evaluation Methods
+Introduction to Software Reliability Evaluation
+Software Testing for Web Applications
+Software Project Management Tools and Techniques
+Introduction to User-Centered Design Research
+Software Configuration Management Approaches and Practices
+Software Process Improvement Strategies and Models
+Software Maintenance and Software Refactoring Techniques
+Introduction to Continuous Deployment Techniques
+Software Product Line Engineering Approaches
+Software Requirements Elicitation Practices
+Software Architecture Design Patterns and Principles
+Introduction to Software Risk Analysis and Assessment
+Software Testing and Validation Tools and Techniques
+Software Project Management Approaches and Practices
+Introduction to User Experience Design Research
+Software Configuration Management Techniques and Tools
+Software Process Assessment and Evaluation Techniques
+Software Maintenance and Code Modernization Techniques
+Introduction to Continuous Integration and Deployment Practices
+Software Product Line Engineering Methods and Practices
+Software Requirements Analysis Tools and Techniques
+Software Architecture Design Evaluation Techniques
+Introduction to Software Reliability Assessment Methods
+Software Testing for Mobile Devices and Applications
+Software Project Management Techniques and Tools
+Introduction to Human-Centered Interaction Design Principles
+Software Configuration Management Approaches and Methods
+Software Process Improvement Models and Frameworks
+Software Maintenance and Software Evolution Techniques
+Introduction to Continuous Deployment Strategies and Practices
+Software Product Line Engineering Tools and Methods
+Software Requirements Elicitation Techniques and Tools
+Software Architecture Design Patterns and Practices
+Introduction to Software Risk Analysis and Assessment Methods
+Software Testing and Validation Techniques and Tools
+Software Project Management Practices and Processes
+Introduction to User Experience Design Research Methods
+Software Configuration Management Techniques and Strategies
+Software Process Assessment and Evaluation Models
+Software Maintenance and Legacy Code Refactoring
+Introduction to Continuous Integration and Deployment Techniques
+Software Product Line Engineering Frameworks and Approaches
+Software Requirements Analysis Practices and Methods
+Software Architecture Design Evaluation Methods and Tools
+Introduction to Software Reliability Evaluation Techniques
+Software Testing for Web and Mobile Applications
+Software Project Management Tools and Practices
+Introduction to User-Centered Design Research and Methods
+Software Configuration Management Strategies and Techniques
+Software Process Improvement Models and Strategies
+Software Maintenance and Code Modernization Practices
+Introduction to Continuous Deployment Techniques and Practices
+Software Product Line Engineering Methods and Techniques
+Software Requirements Elicitation Practices and Tools
+Software Architecture Design Patterns and Principles
+Introduction to Software Risk Analysis and Assessment Techniques
+Software Testing and Validation Techniques and Approaches
+Software Project Management Practices and Methods
+Introduction to Human-Centered Interaction Design Research
+Software Configuration Management Approaches and Strategies
+Software Process Assessment and Evaluation Frameworks
+Software Maintenance and Code Refactoring Techniques
+Introduction to Continuous Integration and Deployment Practices and Strategies
+Software Product Line Engineering Approaches and Methods
+Software Requirements Analysis Tools and Approaches
+Software Architecture Design Evaluation Techniques and Methods
+Introduction to Software Reliability Assessment Methods and Techniques
+Software Testing for Mobile Devices and Applications
+Software Project Management Techniques and Approaches
+Introduction to Human-Centered Design Research Methods and Techniques
+Software Configuration Management Techniques and Practices
+Software Process Improvement Models and Approaches
+Software Maintenance and Software Evolution Practices
+Introduction to Continuous Deployment Techniques and Strategies
+Software Product Line Engineering Frameworks and Methods
+Software Requirements Analysis Techniques and Approaches
+Software Architecture Design Patterns and Principles
+Introduction to Software Risk Analysis and Assessment Practices
+Software Testing and Validation Techniques and Strategies
+Software Project Management Practices and Processes
+Introduction to User Experience Design Research Methods and Techniques
+Software Configuration Management Strategies and Tools
+Software Process Assessment and Evaluation Models and Frameworks
+Software Maintenance and Code Modernization Techniques and Practices
+Introduction to Continuous Integration and Deployment Practices and Approaches
+Software Product Line Engineering Methods and Strategies
+Software Requirements Analysis Practices and Techniques
+Software Architecture Design Evaluation Approaches and Methods
+Introduction to Software Reliability Evaluation Techniques and Tools
+Software Testing for Web and Mobile Applications
+Software Project Management Tools and Techniques
+Introduction to User-Centered Design Research and Practices
+Introduction to Python Programming
+Java Programming for Beginners
+C++ Fundamentals
+JavaScript Crash Course
+Ruby Programming Basics
+PHP Programming Essentials
+Swift for Beginners
+Kotlin Fundamentals
+Go Programming Crash Course
+Rust Programming for Beginners
+Introduction to R Programming
+MATLAB Fundamentals
+Introduction to TypeScript
+Dart Programming Basics
+Python for Data Science
+Java Servlets and JSP
+Advanced C++ Programming
+Advanced JavaScript Concepts
+Ruby on Rails Web Development
+PHP and MySQL Web Development
+iOS App Development with Swift
+Android App Development with Kotlin
+Web Development with Go
+Game Development with Unity
+Introduction to Machine Learning with Python
+Advanced Java Programming
+Full-Stack Web Development with React
+Data Analysis with R
+Data Visualization with Python
+Python Django Web Framework
+Java Spring Framework
+JavaScript Frameworks (Vue.js, Angular, or React)
+Web Development with Node.js
+Advanced Ruby Programming
+Advanced PHP Programming
+iOS App Development with Objective-C
+Android App Development with Java
+Web Assembly Fundamentals
+Data Science with R
+Python for Web Scraping and Automation
+Java Persistence with Hibernate
+Advanced JavaScript Frameworks
+Ruby on Rails API Development
+PHP Object-Oriented Programming
+Swift for iOS App Development
+Android App Development with Firebase
+Web Development with Express.js
+Game Development with Unreal Engine
+Introduction to Artificial Intelligence with Python
+Advanced Python Programming
+JavaFX GUI Development
+JavaScript for Web Development
+Ruby on Rails Security
+PHP Laravel Web Framework
+SwiftUI App Development
+Android App Development with Kotlin Coroutines
+Web Development with Django
+Machine Learning with Java
+Data Science with Python
+Python for Natural Language Processing
+Java Concurrency and Multithreading
+Advanced JavaScript DOM Manipulation
+Ruby on Rails Web Services
+PHP Authentication and Security
+Swift for macOS App Development
+Android App Development with Kotlin Flow
+Web Development with React Native
+Game Development with Godot Engine
+Introduction to Deep Learning with Python
+Advanced Python Libraries (NumPy, Pandas, etc.)
+Java Networking and Sockets
+JavaScript Animation and Effects
+Ruby on Rails Advanced Topics
+PHP RESTful APIs
+Swift Design Patterns
+Android App Development with Jetpack Compose
+Web Development with Meteor.js
+Data Science with Java
+Python Data Visualization
+JavaFX GUI Development with Scene Builder
+JavaScript Design Patterns
+Ruby on Rails Performance Optimization
+PHP Web Security and Encryption
+Swift App Testing and Debugging
+Android App Development with Material Design
+Web Development with Next.js
+Game Development with Phaser
+Introduction to Natural Language Processing with Python
+Advanced Python GUI Development
+Java Android Development
+JavaScript Unit Testing
+Ruby on Rails Deployment
+PHP E-Commerce Development
+SwiftUI App Testing and Debugging
+Android App Development with Google Maps API
+Web Development with Gatsby.js
+Data Science with Scala
+Python Machine Learning Algorithms
+Java Android UI Design
+JavaScript Frameworks Performance Optimization
+Ruby on Rails Testing and Debugging
+PHP Content Management Systems (CMS)
+Swift Package Development
+Android App Development with Dagger
+Web Development with Svelte
+Game Development with Construct
+Advanced Python Web Scraping
+Java Design Patterns
+JavaScript Security Best Practices
+Ruby on Rails Real-time Applications
+PHP Object-Relational Mapping (ORM)
+SwiftUI App Design Patterns
+Android App Development with Room Database
+Web Development with Polymer
+Data Science with Apache Spark
+Python Deep Learning Frameworks (TensorFlow, PyTorch)
+Java Spring Boot Development
+JavaScript Server-Side Development (Node.js)
+Ruby on Rails API Security
+PHP GraphQL
+Swift App Localization
+Android App Development with Retrofit
+Web Development with WebAssembly
+Game Development with Phaser.js
+Introduction to Quantum Computing with Python
+Advanced Python GUI Frameworks (PyQt, Tkinter)
+Java Testing and Test-Driven Development (TDD)
+JavaScript Progressive Web Apps (PWA)
+Ruby on Rails GraphQL
+PHP Payment Gateway Integration
+SwiftUI App Architecture
+Android App Development with WorkManager
+Web Development with Flask
+Data Science with Apache Kafka
+Python Natural Language Processing (NLP) Libraries
+Java Web Services (SOAP and RESTful)
+JavaScript State Management (Redux, Mobx)
+Ruby on Rails Caching and Performance
+PHP Microservices Architecture
+Swift App Accessibility
+Android App Development with Firebase Authentication
+Web Development with D3.js
+Game Development with Babylon.js
+Introduction to Blockchain Development with Python
+Advanced Python Data Analysis
+Java Cloud Computing (AWS, Azure, GCP)
+JavaScript Web Components
+Ruby on Rails Background Jobs
+PHP Cloud Deployment (AWS, Azure, GCP)
+SwiftUI App Animations
+Android App Development with CameraX
+Web Development with Nest.js
+Data Science with Apache Hadoop
+Python Computer Vision
+Java Design Patterns in Microservices
+JavaScript Desktop Applications (Electron)
+Ruby on Rails Docker Deployment
+PHP Machine Learning Integration
+Swift Augmented Reality (AR) Development
+Android App Development with Location Services
+Web Development with Nuxt.js
+Game Development with Unity Networking
+Introduction to Quantum Machine Learning with Python
+Advanced Python Multi-Threading
+Java Internet of Things (IoT) Development
+JavaScript WebGL
+Ruby on Rails Continuous Integration (CI/CD)
+PHP Web Scraping and Automation
+SwiftUI App Widgets
+Android App Development with In-App Billing
+Web Development with Elm
+Data Science with Apache Spark Streaming
+Python Reinforcement Learning
+Java Microservices with Spring Cloud
+JavaScript Web Performance Optimization
+Ruby on Rails DevOps
+PHP Serverless Computing
+Swift App Localization and Internationalization
+Android App Development with Push Notifications
+Web Development with ReasonML
+Game Development with Cocos2d-x
+Introduction to Quantum Cryptography with Python
+Advanced Python Network Programming
+Java Blockchain Development
+JavaScript Cross-Platform Development (React Native)
+Ruby on Rails GraphQL Clients
+PHP Image Processing and Manipulation
+SwiftUI App Data Persistence
+Android App Development with Firebase Realtime Database
+Web Development with Aurelia
+Data Science with Apache Flink
+Python Time Series Analysis
+Java Cloud-Native Development with Kubernetes
+JavaScript Robotics Programming
+Ruby on Rails Machine Learning Integration
+PHP API Development with Lumen
+Swift App Extensions
+Android App Development with Firebase Cloud Messaging (FCM)
+Web Development with Stencil.js
+Game Development with Defold Engine
+C++ Programming - From Beginner to Beyond (Udemy)
+Java Programming and Software Engineering Fundamentals (Coursera)
+Python for Everybody (University of Michigan on Coursera)
+JavaScript: Understanding the Weird Parts (Udemy)
+Ruby on Rails - The Complete Guide (Udemy)
+Go: The Complete Developer's Guide (Udemy)
+Swift - The Complete iOS App Development Bootcamp (Udemy)
+Kotlin for Android: Beginner to Advanced (Udemy)
+PHP for Beginners - Become a PHP Master (Udemy)
+SQL for Beginners: Learn SQL using MySQL and Database Design (Udemy)
+R Programming A-Z: R For Data Science With Real Exercises (Udemy)
+Dart - The Complete Flutter Development Bootcamp (Udemy)
+Rust Programming Language (Official Website)
+MATLAB Onramp (MathWorks)
+Assembly Language Programming (YouTube)
+Perl Programming (LinkedIn Learning)
+Julia Programming (YouTube)
+TypeScript: The Complete Developer's Guide (Udemy)
+D3.js Data Visualization (Udemy)
+Bash Scripting and Shell Programming (Udemy)
+PowerShell Scripting (LinkedIn Learning)
+Scala Programming (Coursera)
+Dart and Flutter: The Complete Developer's Guide (Udemy)
+Crystal Programming (Official Website)
+COBOL Programming (YouTube)
+Lua Programming (YouTube)
+Erlang Programming (Official Website)
+F# Programming (YouTube)
+Elm Programming (Official Website)
+Groovy Programming (LinkedIn Learning)
+Prolog Programming (YouTube)
+Tcl/Tk Programming (YouTube)
+Scheme Programming (Coursera)
+WebAssembly (Udemy)
+Verilog HDL Programming (YouTube)
+VHDL Programming (YouTube)
+ABAP Programming (LinkedIn Learning)
+ActionScript Programming (YouTube)
+APL Programming (Official Website)
+AutoHotkey Scripting (YouTube)
+Awk Programming (YouTube)
+COOL Programming (Official Website)
+J Programming (Official Website)
+Swift Programming (LinkedIn Learning)
+MATLAB Programming (YouTube)
+Delphi/Object Pascal Programming (Udemy)
+Visual Basic .NET Programming (Udemy)
+Kotlin for Java Developers (Coursera)
+Shell Scripting Fundamentals (Pluralsight)
+Node.js: The Complete Guide (Udemy)
+MongoDB - The Complete Developer's Guide (Udemy)
+Data Science and Machine Learning Bootcamp with R (Udemy)
+GraphQL with React: The Complete Developers Guide (Udemy)
+Algorithmic Trading and Quantitative Analysis Using Python (Udemy)
+React Native - The Practical Guide (Udemy)
+Advanced CSS and Sass: Flexbox, Grid, Animations and More! (Udemy)
+Data Structures and Algorithms: Deep Dive Using Java (Udemy)
+Full Stack Web Development with Flask (Udemy)
+Docker Mastery: The Complete Toolset From a Docker Captain (Udemy)
+Python Automation: Automate Mundane Tasks with Python (Udemy)
+ASP.NET Core Web API - The Complete Guide (Udemy)
+Complete Machine Learning and Data Science: Zero to Mastery (Udemy)
+Complete Java Masterclass (Udemy)
+The Complete Node.js Developer Course (Udemy)
+Unreal Engine C++ Developer: Learn C++ and Make Video Games (Udemy)
+Complete Python Bootcamp: Go from Zero to Hero in Python 3 (Udemy)
+Python and Django Full Stack Web Developer Bootcamp (Udemy)
+Java Programming for Complete Beginners (Udemy)
+The Complete Ruby on Rails Developer Course (Udemy)
+SQL - MySQL for Data Analytics and Business Intelligence (Udemy)
+Angular - The Complete Guide (Udemy)
+C Programming for Beginners - Master the C Language (Udemy)
+Python for Data Science and Machine Learning Bootcamp (Udemy)
+iOS 13 and SwiftUI - The Complete Developer Course (Udemy)
+The Complete Web Developer Course (Udemy)
+Complete Blender Creator: Learn 3D Modelling for Beginners (Udemy)
+Unity Game Development: Create 2D and 3D Games (Udemy)
+Complete C# Unity Developer 2D: Learn to Code Making Games (Udemy)
+The Complete Android Oreo Developer Course (Udemy)
+Complete Unity Developer 3D: Learn to Code Making Games (Udemy)
+Learn Python Programming Masterclass (Udemy)
+The Complete Ethical Hacking Course (Udemy)
+Android App Development Masterclass using Kotlin (Udemy)
+The Complete JavaScript Course (Udemy)
+Java In-Depth: Become a Complete Java Engineer! (Udemy)
+PHP with Laravel for Beginners - Become a Master in Laravel (Udemy)
+Python for Finance: Investment Fundamentals & Data Analytics (Udemy)
+Unreal Engine 4: The Complete Beginner's Course (Udemy)
+React - The Complete Guide (Udemy)
+The Complete Node.js Developer Course (3rd Edition) (Udemy)
+Complete Python Web Course: Build 8 Python Web Apps (Udemy)
+Machine Learning A-Z: Hands-On Python & R In Data Science (Udemy)
+Complete Blender Creator: Learn 3D Modelling for Beginners (Udemy)
+The Python Mega Course: Build 10 Real World Applications (Udemy)
+Angular & NodeJS - The MEAN Stack Guide (Udemy)
+C# Basics for Beginners: Learn C# Fundamentals by Coding (Udemy)
+iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (Udemy)
+Complete SQL + Databases Bootcamp: Zero to Mastery (Udemy)
+Unreal Engine 4: Project Based VR Course for Arch Viz in UE4 (Udemy)
+Complete Java Masterclass (Udemy)
