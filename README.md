@@ -6,7 +6,7 @@ the dataset contains more than 700 transcripts of YouTube educational videos seg
 
 The dataset can be used in video segmentation tasks.
 
-The dataset is available via this link [https://drive.google.com/drive/folders/12NEwqBVa5HgMAqFPDCks0B6Ogb5tU-74](download the dataset)
+The dataset is available via this link [https://drive.google.com/drive/folders/12NEwqBVa5HgMAqFPDCks0B6Ogb5tU-74] (download the dataset)
 
 *note*: the file name is the YouTube video id.
 
